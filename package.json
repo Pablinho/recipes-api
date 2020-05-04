@@ -1,0 +1,24 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "Learning serverless",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pablinho/recipes-api.git"
+  },
+  "author": "Pablo Crovetto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pablinho/recipes-api/issues"
+  },
+  "homepage": "https://github.com/Pablinho/recipes-api#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "co": "^4.6.0",
+    "fs": "0.0.1-security"
+  }
+}
